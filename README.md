@@ -9,6 +9,8 @@ MobaXterm 还支持多标签页操作，允许用户同时连接多个会话，�
 
 类似工具：Xshell、SecureCRT、WindTerm等。个人推荐 MobaXterm ，网工、IT运维人员必备。
 
+![MobaXterm](README.assets/MobaXterm.png)
+
 
 #### 已汉化内容
 - MobaXterm.exe 便携版几乎所有界面显示的内容，比如：各种文本、按钮、选项、设置、提示内容、弹窗等。
@@ -34,7 +36,7 @@ MobaXterm 还支持多标签页操作，允许用户同时连接多个会话，�
 - MobaXterm.exe 便携版程序中，有一个EXEFILE的资源目录，该目录下存放了多个资源文件，基本都是使用LZMA压缩的zip包，其中 MOBASE 和 XW 还使用了加密混淆。
 - MoTTYnew.exe 有一些字符是输出到终端行中的，这些内容受字体和字符编码的影响，所以这些内容强烈建议不翻译，翻译了会出现乱码的问题。（如果要翻译，也建议转换成UTF-8编码的字符串，这样只能兼容UTF-8编码的显示）
 - MobaRTE.exe -compfolders 命令可以打开文件比较工具。
-- MobaXterm.exe --customizer 命令可以打开MobaXterm定制器。
+- MobaXterm.exe -customizer 命令可以打开MobaXterm定制器。
 
 
 #### MobaXterm.exe 的 EXEFILE 下资源文件介绍：
