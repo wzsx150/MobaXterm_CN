@@ -41,6 +41,7 @@ MobaXterm 还支持多标签页操作，允许用户同时连接多个会话，�
 - 有些翻译不生效，或者有问题，有一个原因是 %s 和 %d 等字符，在字符串的前后顺序和位置不对。所以要严格遵照原文的 %字符 的顺序和个数进行翻译。
 - MobaXterm.exe 和 MobaRTE.exe 是Delphi程序。
 - MobaXterm.exe 便携版程序中，有一个EXEFILE的资源目录，该目录下存放了多个资源文件，基本都是使用LZMA压缩的zip包，其中 MOBASE 和 XW 还使用了加密混淆。
+- 从25.1版本开始，MOBASE 中不再包含两个版本的 SSH 引擎文件，这样汉化内容又稍微轻松一点。
 - MoTTY.exe 有一些字符是输出到终端行中的，这些内容受字体和字符编码的影响，所以这些内容强烈建议不翻译，翻译了会出现乱码的问题。（如果要翻译，也建议转换成UTF-8编码的字符串，这样只能兼容UTF-8编码的显示）
 - MobaRTE.exe -compfolders 命令可以打开文件比较工具。
 - MobaXterm.exe -customizer 命令可以打开MobaXterm定制器。

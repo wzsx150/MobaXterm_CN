@@ -1,4 +1,4 @@
 *.bak
-*/*.bak
-*/*.ini
-*/*.zip
+/*/*.ini
+/*/*.log
+/*/*.zip
