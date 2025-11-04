@@ -9,6 +9,8 @@ MobaXterm 还支持多标签页操作，允许用户同时连接多个会话，�
 
 类似工具：Xshell、SecureCRT、WindTerm等。个人推荐 MobaXterm ，网工、IT运维人员必备。
 
+<mark>特别注意：本汉化版不支持默认编码是UTF8的win系统（显示乱码），目前绝大部分windows系统中文版都是GBK/GB2312的默认编码。</mark>
+
 ![MobaXterm](README.assets/MobaXterm.png)
 
 
