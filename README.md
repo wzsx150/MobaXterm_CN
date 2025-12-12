@@ -27,6 +27,8 @@ MobaXterm 还支持多标签页操作，允许用户同时连接多个会话，�
 
 - MoTTYnew.exe 和 MoTTY.exe 内置的终端的右键菜单、设置菜单、弹窗等；
 
+- MobAgent.exe 内置的 SSH 认证代理工具的一些界面显示的内容；
+
 （注：25.1版开始官方不再内置MobaKeyGennew.exe、MoTTYnew.exe等程序文件，改为始终使用新版 SSH 引擎）
 
 
